@@ -12,7 +12,7 @@ const runMemoryEvent = require('./memory.js');
 const runFurnitureScript = require('./tu.js');
 const runDailyTasks = require('./daily-tasks.js');
 const runBoyfriendKiss = require('./bfk.js');
-const runGuildShow = require('./guild-show.js');
+const runPetTraining = require('./pet-train.js');
 const runBridesmaids = require('./bridesmaids.js');
 
 const scripts = [
